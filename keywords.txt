@@ -1,0 +1,1335 @@
+ontologies
+
+caching
+
+ontology
+
+ontology
+
+clinical terminologies
+
+AWS neptune
+ GraphQL
+
+IOT data
+
+Ontology
+
+D2RQ
+ SPARQL
+
+Semantic Web
+ BI tool
+ SQL
+ Knowledge Graph
+ OWL
+ Sparql
+ ETL
+ gist ontology
+ KBpedia
+ Semantic Arts
+ timestamp
+
+Knowledge Graphs
+ machine learning
+ SQL or other languages
+ Excel
+ R
+
+SOML
+ Ontotext
+
+GraphQL
+ API
+ sparql functions
+ GraphQL interfaces
+ SOML
+ SHACL
+ RDF4J
+ IDE autocomplete
+ NG
+ cardinality
+
+knowledge graphs
+ GraphDB
+ text analysis
+ semantic search
+ Ontotext
+ GraphDB
+ FinTech
+ Life Sciences and Healthcare
+ Manufacturing and Publishing verticals
+
+KGC knowledge graph
+ GraphDB
+ SPARQL
+ RDF
+ GraphQL
+
+Ontotext platform
+ GraphDB
+ Visualization of KGC KG
+
+Plug-in
+ quadruples
+ Query-Time Populism
+
+Ontotext Platform
+ GraphQL and SPARQL
+ MongoDB
+ Elastic
+ JS
+ KGC knowledge graph
+ GraphDB
+
+Ontotext
+ Java
+ SOML
+ OWL
+ cardinality
+
+GraphQL
+ SPARQL
+ SOML
+ SHACL
+ LSP (language server protocol)
+ ontology
+ pagination
+ semantic data
+
+coref implementation
+ Coreference Resolution
+ Neural Networks
+
+Stardog use case
+ Factiva
+
+
+
+
+
+W3C
+ semantic web
+ Causality Link
+ AI applied to Fintech
+ Athena querying system
+ SaaS product
+ DaaS version
+ how to use KG to detect incoherence in the market
+
+Graphs
+ Oracle
+ RDF Knowledge Graph
+ RDF
+ W3C committees
+ graph features of Oracle Database
+
+ontologies
+ semantic rule
+ MarkLogic
+
+sparql
+ ontology
+ info extractor
+ GraphQL
+ RDF KG
+
+KgBase features ( .TXT file integration and Fuzzy matching)
+
+algorithms to fuzzy match entities
+ causal inference
+
+ontologies
+ gra.fo.
+ RDF
+ Protege
+ taxonomies
+ PoolParty
+ Synaptica Graphite
+
+RHS
+ SQL
+ KG
+ SPARQL
+ DB
+ R2RML
+ mapping
+ RDFS
+ OWL
+ Denodo
+ ontopic
+
+Inception
+
+Oracle Database (RDF data - Bulk load
+ SPARQL update
+ SPARQL query
+ RDFS
+ OWL2RL and OWL2EL reasoning
+ virtual RDF graphs based on R2RML
+ etc.)
+ RDF Knowledge Graph
+ URI
+ Docker
+
+Cameo Concept Modeler
+ Ontology tools
+ Ontology Development and Visualization
+ MagicDraw
+ OWL 2
+
+ontologies
+ WebProtege
+  Schema.org
+ biomedical
+ modeling
+
+AI
+ KG
+ FAIR principles
+ healthcare
+ T1D and T2D research
+ ISWS
+ KG students group
+
+semantic web
+ AI
+ and NLP
+ knowledge graph
+
+Knowledge graphs
+ software development
+ ML
+ AI
+ introduction to knowledge graphs
+
+semantic technologies
+
+information architecture
+ knowledge organization systems (e.g. ontologies) and metadata
+ machine learning
+ NLP-progress
+ Entity Linking
+ snorkel.org
+
+ontology vs taxonomy
+
+KG mapping
+ public ontologies
+
+Covid-19 knowledge graphs
+ OntoForce
+
+PoolParty Semantic Suite
+ Semantic Data Fabric
+ The Knowledge Graph Cookbook
+ PoolParty Academy
+
+
+
+
+
+
+
+Stardog
+ CIM
+ knowledge graph
+ Python
+ BI/SQL server
+ and other stardog features
+ COVID-19 crisis
+ graph approaches
+
+healthcare and education
+ Personal Health KGs workshop
+
+ontologies
+ taxonomies
+ catalogs
+ glossaries
+ building and maintaining a knowledge graph
+
+DAGs
+ Knowledge Graphs
+ Semantic Web
+ graph traversal algorithms
+ graph query languages
+ six-degrees-of separation
+ graph databases that support Sparql
+ or owl
+ neptune
+ arangodb
+ neo4j
+
+how KGs can be used for Contact tracing applications in this Covid-19 situation
+
+Finance in Graph
+
+logical models (aka schemas or ontologies)
+ knowledge graphs
+ entity resolution
+ OWL
+ Stardog use case
+ ontology vs taxonomy
+ Neptune
+ SPARQL
+ OWL
+Stardog
+ the use of KG's in pharma
+ Stardog Webinar
+
+semi natural language
+ Neo4j's graph technology
+
+Knowledge Graph implementation status
+
+a possible MoU between EKGF and FIX Trading Community
+
+ontology design
+ automatic mapping from relational database schema to domain ontology by ML
+ text embedding
+ Entity linking
+ tools or usable code for KG embeddings
+ Neo4j lib
+
+Neo4j
+ KG embeddings
+ Google schemaapp
+
+graph database technology (I believe they are the future of a lot of things)
+ BI
+ Electronic Document Management Systems
+ Natural Language Processing
+ ontology vs taxonomy
+ gra.fo
+ embedding
+ Emacs
+ Apache OpenNLP
+ Stanford NLP
+ NLP pipeline
+ Neo4j
+ KG / linkeddata technologies
+ Linkurious
+
+CoreNLP
+
+ontologies/semantics for finance
+ KB
+ Auto KB Creation
+ NLP
+
+
+
+
+
+
+
+
+
+Entity extraction
+ semantic relationships
+ Datao.net
+ NLP
+ KG
+ Extraction of KGs from Unstructured Data using Deep Semantics based NLP
+ Ontology
+ Deep-Learning
+ Lexicon
+ lexical/syntactic rules
+ and ML
+ Jaguar
+ RDF
+ info extractor
+ base relations between the concepts
+
+setting up your own spotlight
+ OpenNLP
+ topbraid Composer
+ ontology
+
+ML models
+ NER/concepts
+ semantic rules
+ NLP
+ lexicons
+ annotation tool
+
+semasia.co
+ ML/AI model
+
+using KGs for research in Covid19
+ tools for automate annotation
+
+VC
+
+knowledge base creation
+ RDF extraction
+ APIs and cloud
+ Automated Knowledge Base Creation
+ NLP pipeline
+ ontology
+ semantic analysis
+ FIBO
+  fuzzy search
+ participants’ experience level with NLP
+ Datao.net
+ Protege
+ Lymba
+ Brat
+ ontologies
+ Operational Risk
+  ontologies v. taxonomies
+
+Causality Link
+ Corpus Incoherence by Causality Link
+ Causal Graph
+
+Data Intelligence
+
+suggestions for growing the KG community
+
+query language and the visual ontology modeler
+ Quad
+ Timbr.ai 
+ data wrangling
+ stardog
+ Knowledge Engineer
+ sparql
+ Quad
+ Data Intelligence
+ suggestions for growing the KG community
+ a clear definition of what is Knowledge Graph
+ uml diagram for RDF
+ GraphQL
+ Sparql on RDF
+ SOML
+ interface
+ OWL2
+ SOML to RDFS converter
+ GraphQL mutations
+ cascading deletes
+ survey paper on the embedding landscape
+ ontology vs taxonomy
+ fuzzy name matching algorithm
+ entity matching
+ logic kgs
+
+developing a knowledge graph
+ Information extraction
+ embeddings
+ Poolparty
+ SPO triple
+ value triple
+ tools for coref resolution
+ heuristics
+ SQL
+ Wikidata
+ KG
+ KG students group
+
+consumer type product
+ API
+ SASS service
+
+Causality Link
+ APIs
+ causal inference
+
+Causality Link
+ white paper
+ a causality of lawmaking (events) in certain countries as an impact to an industry
+ graph visualization
+ search product
+
+metadata model
+ Causality Link
+ meta
+
+TerminusDB
+ Python
+ TerminusDB Graph Visualisation
+
+Tutorial - Building a Knowledge Graph from schema.org annotations (KGS)
+
+Industry-scale graph databases/triple stores
+ RDF
+ property graphs
+ hypernodes
+ graph representation
+ schema.org
+ W3C
+ neosemantix
+ duplication
+ stardog
+ neo4j
+ the annotation platform
+ semantify.it
+ RDFS
+ SHACL
+ approach for enabling inference on Knowledge Graphs
+ RML
+ Solid
+
+relationships between google knowledge graph and vault
+
+knowledge graph
+ AI applications
+ property graph
+
+
+
+
+
+standard vocabulary
+ knowledge creation
+defining schemas
+ adding reasoning capabilities
+ RDF
+ LPG
+ GQL
+ mapping
+ KG
+ time series data
+ Knowledge Scientist
+ Knowledge Engineer
+ gra.fo
+ ontology
+ query languages
+
+RDF
+ schema.org/Thing
+ R2RML
+ ML
+ SHACL
+ vocabulary
+ Plugins
+ semi-automatic annotation
+ SPARQL
+ Olaf Hartig
+ Knowledge Curation Tools
+ Knowledge Graph
+ tourism industry
+ semantic annotation
+ German Tourism
+ crawler for hotel data and implemented the booking APIs
+
+RDF
+ Knowledge Graphs
+ LPGs
+ LeapAnalysis
+ StarDog
+ virtuoso
+ FOSS
+ deduplication
+ general cleaning
+ R2RML
+ ETL
+ virtuoso
+ StarDog
+ GraphDB
+ LeapAnalysis
+ RDB
+ Semantic
+ ontology
+ RDF
+ enterprise oriented knowledge graph
+ schema.org
+ enterprise-oriented top-level ontology
+ vocabulary
+ ontology
+ SHACL
+ annotation
+ named nodes
+ federated databases (authorization
+ indexing setups
+ performance envelopes
+ mapping the schema / vocabulary / ontology)
+ stardog
+ Gra.fo
+
+tools for building KGs (RDF/OWL/SPARQL
+ LPG)
+ schema extensions
+ semantify
+ Joomla plugin for Semantify
+ IAM
+ stardog paths
+ R2RML
+
+Lymba features
+ RDF
+ Semantic Web
+ KG
+ mapping
+ visualization
+  geographic mappings
+ ontology
+ Alteryx
+ property graph
+ the Neosemantics project
+ LPG
+ NSMNTX
+
+schema taxonomy
+  schema.org data model
+ rule based extraction
+ ML
+ Snorkel
+ relation extraction
+
+using existing schema.org-annotated websites to train your ML models
+ RML
+  schema.org data model
+ GraphQL
+ ontolog
+ OWL
+ SOML
+ cardinality
+
+ML models
+ tools for knowledge assessment
+
+SHACL
+ vocabulary
+ OWL
+ RDFS
+ SKOS
+ building a vocabulary/schema
+ Semantic Web
+ ontology search/reuse
+
+authorizing access to the data
+
+sql
+ ontology
+ cleaning
+ FOSS platforms
+Ontop
+ Virtual RDF Knowledge Graphs
+ SPARQL
+
+KG
+
+RDF
+ D2RQ
+ R2RML
+ ETL
+ Python
+ mapper or pipeline
+ Karma
+KRML
+
+PROV-O
+ Property Graphs
+ semantic
+ KG
+ SQL
+ JENA
+ docker
+ RESTDataSource
+ Apollo GraphQL
+ AWS Athena
+
+graph database
+ linked data
+ semantic data
+
+categories of tools for building a knowledge graph
+ RocketRML
+ SHACL
+ RDF
+ LPG
+
+EKGF principles
+ maturity model
+ EKG Maturity Model
+ Enterprise Knowledge Graph
+ data architecture
+ ontology
+ EKG/MM
+ The Data Management Maturity Model (DMM)
+ Carnegie-Mellon (CMMI)
+ The Data Management Capability Model (DCAM)
+ the Enterprise Knowledge Graph Foundation
+ Knowledge Graph implementation status
+ the maturity levels for participants
+
+metadata
+ recommendation systems
+ fuzzy matching for names
+
+Survey - Subscription-based newsletters consumption
+
+the vs property
+
+building a knowledge graph about FOOD
+
+workshops/ sessions / tutorials on how to create network graphs
+ using KG /XAI for unsupervised ML algorithms
+
+open source curation tools
+ manual curation
+ Solid
+ tools/suggestions for manual curation
+ knowledge graph updating
+ auto extraction
+ web crawlers
+
+Yahoo Knowledge graph
+ incremental ingestion
+ methods used in relation extraction
+ ML
+ IMDB
+ tv/actors/celebrities/movies domain applications
+
+
+
+
+
+
+
+building and maintaining a knowledge graph
+ path
+ tools for entity disambiguation
+
+machine learning
+ KG
+ AI
+ transaction data
+
+knowledgescientist.org
+ tools for extracting relations
+ ontology vs taxonomy
+ semantify.it
+
+KG
+
+open access tools available now building KGs automatically from biomedical literatures and patents
+ linking genes
+ MOAs
+ targets
+ etc
+ Excel tool extracting country facts automatically
+
+semantic data
+ linked data
+ Neo4J
+ LPG
+ ontology
+ graph traversal
+ atomic mapping
+ KG
+ visualization
+ SPARQL
+ SQL
+ ETL
+ RHS
+ HTML
+ Datalakes
+ hands-on session with Lymba
+ Neo4J DB
+ semSpec
+ dbpedia-spotlight
+ entity extraction
+ online demo
+ OpenNLP
+ ontology vs taxonomy
+ Annotating text
+ Linked Open Vocabularies (LOV)
+ search bar
+ graphs
+ injection scalability
+ dbpedia-based kgbase instance
+ knowledge graph updating
+ query languages
+ GraphQL
+ mapping
+ tutorials for ontop
+ ontopic
+ UI
+ PoC development
+ RDF
+ RDFS
+ OWL
+ search.datao.net
+ assisted typing
+ protege
+ DBpedia
+ CSV
+ Elasticsearch
+
+OWL
+ SHACL
+
+TerminusDB
+ FOSS knowledge graph
+ TerminusDB Community community on Discord
+ logic kgs
+ OWL
+ SPARQL
+ JSON-LD
+
+financial microdata and KG
+ Ontotext
+ reconciliation
+ false claims
+ updating KG
+ Lexus/Nexus
+ and Bloomberg law
+ financial contract
+ deduplication
+ Holodeck
+ semantic technology
+ NLP
+ JSON
+ MongoDB
+ RDF
+ triples
+ How does Wikidata reification differ from typical RDF usage? SOML
+ RDF Quad
+
+VIVO ontology
+ open source semantic web application
+ ontologies
+ network graphs
+
+providing manual curation tech for graphs
+ manual curation
+
+datasketches
+ hashing
+
+SPARQL
+ SQL
+ RDF
+ knowledge graphs
+ Neptune
+ Oracle
+
+SPARQL
+  SQL/SPARQL query in Oracle
+ RDF
+ RDF#
+  RDF*
+ Knowledge Graph Conference
+ GUI
+triples
+ LPG
+
+collecting a set of success stories using kgs
+ schema/ontology
+ intent
+ Al Gore
+ climate change
+ FIBO
+ ontology engineering class
+ context
+ suggestions for growing the KG community
+ KG for academic use
+ annotation
+ context workshop
+ EKGF
+ hygiene work
+  ontology engineering in finance
+ RPI
+
+in an automated manner for extracting metadata from pdfs
+
+zero-shot entity linking
+ ClaimsKG
+ CLIP
+
+semantic metadata
+ Saas Products
+ CRM
+ SAP
+ ontologies
+ tools that make a company knowledge graph searchable for business users
+
+tips in dealing with error propagating from Distance Supervision methods
+ entity linking
+ knowledge graphs
+ NER tools
+ mapping from different domains to KGs
+
+SHEX
+ SHACL
+ ORM
+
+intent
+ ClaimsKG
+
+Capital One
+ registered Data Element
+ Neptune
+ OWL
+ Web Protege
+ BI
+ SQL
+ Gra.fo
+ ontology
+ Denodo Adapter
+
+industry certifications highly respected for building ontologies and knowledge graphs
+ useful ontology modeling tools on the visual side
+ RML tutorial sources
+
+tools for KG
+ mapping
+ data glossary
+
+metadata or data
+ FIBO
+ KG
+ mapping
+ deduplication
+ ontology
+
+ORKG
+ KG representation
+ disambiguation
+ embeddings
+ misleading software claims
+ Amundsen
+
+
+
+
+
+Multiple relationships
+ conditional relationships
+ ontology
+
+EKG
+ Enterprise Knowledge Graph Foundation
+ OWL
+ SKOS
+ RDF*Stardog
+ Ontotext and Cambridge Semantics
+ Enterprise Knowledge Graph Foundation
+ hygiene work
+ ontology
+ SPARQL
+ upper ontology
+ model integration
+SQL
+ XML
+ JSON
+
+Autocomplete VS graph
+ knowledge graphs visualization
+ Cambridge Intelligence
+ Wikidata
+ KG
+ ontology
+
+wikidata
+ legal systems
+ fuzzy name matching
+ NLP
+ ML
+ metadata
+
+the EKG Foundation  www.ekgf.org/
+ federated query approach
+ connection toexposed API's 
+ caching
+ Leapanalysis
+ maturity model
+ KG
+ Archimate
+ ontology
+ OWL 2
+ BPMN
+ DCAT
+ Stardog
+
+AI techniques
+ knowledge representation and machine learning techniques
+ Description logics (DLs)
+ machine learning in health and security
+ artificial system to explore and connect to peer researchers
+ KG
+ KG students group
+definition of what is Knowledge Graph
+ food knowledge graph
+ PerkApp ontology
+ validating metadata
+ ontology
+
+tools for case-based reasoning
+ triplestores
+ Allegrograph and Stardog
+ contextual graphs
+
+
+
+
+
+RDF
+ triples
+ cleaning
+ mapping
+ R2RML
+ FIBO
+ tourism industry in Austria
+ tools to development/maintain ontologies/taxonomies/vocabularies
+ ontologies storage
+ Git or any other VCS
+
+schema.org
+ NLP techniques
+
+KG in FIBO
+ tool that links owl models
+ www.ekgf.org
+ Syzygy
+ Failsafe data loss
+ security
+
+OWL
+ FIBO
+ agnos.ai
+ OMG
+ APIs
+
+sociology
+ knowledge graphs
+
+Cameo Concept Modeler (CCM)
+ ontology vs taxonomy
+ SME
+ visualization
+ classification theory
+ cognitive science
+ Formal semantics
+ Semiotics Language
+  Formal Logic
+ SPARQL
+ semantics
+ Aristotle
+ Leibniz
+ FIBO
+ a channel for training offerings and requirements
+ CLIP
+ Self-Sovereign Identity (SSID)
+ good ontology of legal and contractual terms
+ ontology
+ Gist
+ Semantic Arts
+ DOLCE
+ BFO
+ EKG Maturity Model
+ KG
+
+knowledge graphs
+ data discovery/search
+ GDPR
+ interpretation of the demo result
+ community version for GraphDB
+
+MarkLogic
+ Sparql
+
+
+
+CG
+ Knowledge Graph
+ Semantic Technology
+ ontologies
+
+
+
+social capital through graphs topology and recommender systems
+ sociology
+ define a quantification of trust in a social network
+ NLP pipeline
+ metadata
+ KG
+ RDF
+ SOML
+ visualization of the database in the GraphDB
+ Property Graphs
+
+
+
+
+
+
+
+RDF#
+ wrappers for Solid for R/Shiny or Python/Dash or other languages/UI?
+
+Solid
+ API
+ health knowledge graphJSON-LD
+ visualization
+ plugins
+ WebProtege
+ Neo4j
+ RDF (sparql)
+ neosemantics
+ using SHACL with neosemantics
+ Usage of ontologies and KG in Banks/Brokerages
+
+RDF#
+ data security
+ pod providers
+ transformer network like BERT
+ Ontology
+ semantic web tools
+MagicDraw
+ Neo4j
+ RDF
+ RDBMS
+ virtual mapping
+ triple store
+ RocketRML
+
+Kyndi
+ suggestions for growing the KG community
+
+RML
+ programming languages to deploy knowledge graph applications
+ SIOC
+ SQL
+ R2RML
+
+ontology for the data pods
+ontology vs taxonomy
+ FIBO
+
+solid
+ data quality
+ mapping to semantic concepts in the FoodKG
+ fuzzy NLP techniques
+ W3C standards?PHKG workshop
+
+Solid
+
+healthcare
+ API
+ personal knowledge graph
+ Neo4j Graph algorithms library
+  graph data science library
+ python api 
+ embedding
+
+ontology
+
+ontologies
+ NLP
+ KG
+ ontology for finance
+ FIBO
+ pipeline
+ suggestions for growing the KG community
+ taxonomists
+ ontologies
+
+ontology visualization
+ gra.fo
+ PoolParty
+ GraphDB
+ ontology vs taxonomy
+ thesaurus
+ continuum
+ Ontology Development
+ NLP
+
+RDF
+ RDB
+ KG
+ mapping
+ SQL
+ visualization
+ cleaning
+ chatbot
+ SPARQL
+ R2RML
+  gra.fo
+  Knowledge Scientist
+ data catalogue
+ leapanalysis
+ GraphQL
+ mapping language
+ API
+Virtual Graphs
+ Stardog use case
+ Cyber Controls Ontology
+ Knowledge Graph presentation
+ ontology model
+ timbr.ai
+  cybersecurity
+ lymba
+ Cyber Controls Ontology
+ subgraphs
+ redundancy
+ detecting sarcasm
+ stanza
+ W3C Community Group
+ graph visualization
+ URL
+ KGC2020 graph
+ Lymba
+ cybersecurity
+ non schema.org vocabulary
+ dedupe.io
+ widoco tool
+
+RDF
+ food knowledge graph
+ data.world
+ Food ontology
+ data catalog
+introduction to knowledge graphs
+ curriculum to certify knowledge graph expertise
+ knowledge science
+logic
+ knowledge representation and reasoning
+ data modeling
+ BI tools
+  Stardog
+ SQL-based Business Intelligence
+ Tableau and Power BI
+ Gra.fo
+ ontology
+ mappings
+ virtualization
+ data.world
+ AI-complete
+ Stardog funding
+ semantic technologies
+
+
+XAI (explainable AI)
+ ML systems
+
+GraphQL
+ SPARQL
+ Ontotext
+ ontologies
+ RDF
+ updating KG
+ generating unique IRIs
+ inference and data visualisation
+
+sources for beginners to learn about embedding
+ 'upper ontology' used by Amazon
+
+context
+ Open Research Knowledge Graph
+ ontology in scholarly journals
+
+partial understanding
+ incorporating numeric values into description logics
+ Description logics (DLs)
+ automata-theoretic methods
+ ontology
+ Causality Link
+ meta
+
+OWL
+ OAIS
+
+KG project in an enterprise organization
+ Python
+ Semantics
+ RDFLib
+ SuRF and RDF-Alchemy
+ mapping
+ cleaning
+ data quality
+ fintech
+ RDBMS
+ Data wrangling
+ Data Engineering
+ Java
+ Redshift
+ Snowflake
+ BiqQuery
+ Azure
+ KG
+ OWL
+
+schema.org
+
+
+
+APIs
+ Web Protege
+wedding virtual graph and entity resolution
+
+knowledge graphs for law firms
+ ontology vs taxonomy
+ semantic web
+ thesaurus
+ continuum
+ Wikidata
+ KG
+ SPARQL
+ automation
+ suggestions for growing the KG community
+
+graph databases
+ data architecture
+ practical applications of KG powered solutions in Healthcare and Pharma
+
+contextual knowledge graph
+ entity matching
+ pseudo-KG POCs with Neptune
+ dgraph and DSE Graph
+ LPG
+ triples
+
+auto-context
+
+WebProtege
+
+WebProtege
+
+Representation
+ graph analytical approaches
+
+KG
+
+Sociology
+ computing trust
+ knowledge graphs
+ health informatics
+ KR
+ information extraction
+ AI
+ European Semantic Web community
+  International Semantic Web Summer School (ISWS)
+ distributed representation techniques to the healthcare domain
+  Mendeley app
+ ResearchGate
+ techniques that students use to keep up with research
+ NER tools
+ Semantic Data Dictionaries
+ JSON-LD
+ ontotext pipeline
+  mapping from different domains to KGs
+ KG students group
+ semantic technologies
+ a workshop for Semantic Explainability this year at ISWC
+ ML
+ healthcare analytics
+ medical care
+ ontologies
+ RDF2Vec
+ Gra.fo
+ visualization tool
+ Cameo Concept Modeler
+ OWL
+ entity linking
+ Entity linking
+ definition of what is Knowledge Graph
+ metadata
+ capital one
+ similarity and representation methods
+ FIBO ontology
+ walkthrough using Protege
+ upper ontology
+
