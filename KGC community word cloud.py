@@ -24,3 +24,4 @@ with open('./keywords.txt', 'w') as f:
         f.write(w+'\n')
 		
 		
+# Then used https://www.wordclouds.com/ to generate the image
